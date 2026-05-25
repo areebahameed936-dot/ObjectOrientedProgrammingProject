@@ -22,8 +22,12 @@ These components help create an interactive and visually appealing interface. Bu
 
 The system improves:
 
-Record management efficiency
-Data organization
-User interaction
-GUI development experience
+Record management efficiency,
+
+Data organization,
+
+User interaction,
+
+GUI development experience,
+
 Code maintainability and modularity
